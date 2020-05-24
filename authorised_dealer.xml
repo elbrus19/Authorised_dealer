@@ -1,15 +1,18 @@
 <cars>
   <car>
+    <id>1</id>
     <brand>Koenigsegg</brand>
     <model>Agera R</model>
     <price>924000</price>
   </car>
   <car>
+    <id>2</id>
     <brand>Porche</brand>
     <model>918 Spyder</model>
     <price>800000</price>
   </car>
   <car>
+    <id>3</id>
     <brand>Ferrari</brand>
     <model>Fxx</model>
     <price>1500000</price>
